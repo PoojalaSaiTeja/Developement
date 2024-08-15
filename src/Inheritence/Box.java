@@ -14,7 +14,7 @@ public class Box {
         this.l = side;
         this.w = side;
     }
-    Box(double h,double l,double w){
+    Box(double h,double l,int w){
         this.h = h;
         this.l = l;
         this.w = w;
